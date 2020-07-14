@@ -1,4 +1,4 @@
-timestamp = 1594711717
+timestamp = 1594715627
 
 [signatures]
 anim_overlays = 10624
@@ -46,7 +46,7 @@ dwYawPtr = 13906928
 dwZoomSensitivityRatioPtr = 13927992
 dwbSendPackets = 868698
 dwppDirect3DDevice9 = 684080
-find_hud_element = 671429920
+find_hud_element = 667039008
 force_update_spectator_glow = 3809506
 interface_engine_cvar = 256492
 is_c4_owner = 3861376
@@ -126,6 +126,7 @@ m_iGlowIndex = 42040
 m_iHealth = 256
 m_iItemDefinitionIndex = 12202
 m_iItemIDHigh = 12224
+m_iKills = 3116
 m_iMostRecentModelBoneCounter = 9872
 m_iObserverMode = 13176
 m_iShotsFired = 41872
